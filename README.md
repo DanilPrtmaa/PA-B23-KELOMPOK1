@@ -20,6 +20,8 @@
 
 ## **Flowchart**
 
+![kelompok1](https://github.com/PA-B23-KELOMPOK1/PA-B23-KELOMPOK1/assets/146010899/0630428c-c64c-477b-b92c-f0aba0229957)
+
 ## **Struktur Project**
 
 ## **Fitur**
